@@ -1,3 +1,5 @@
+![Created for Upwork](https://img.shields.io/badge/Created--for--Upwork-2025%2F07%2F27-blue?style=flat-square)
+
 
 # 👋 AI Agent Engineer | Voice AI, Call Agents, LLMs, Prompt Engineering, RAG, Python, Twilio, Vapi, FastAPI 🤖📞
 
@@ -28,3 +30,4 @@ I love mixing **brains (models)** with **communication (voice/call flow)** to bu
 ### 💬 Let’s Build Something Smart Together!
 
 Feel free to explore my projects, fork what you like, and reach out if you want to collaborate.
+
