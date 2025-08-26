@@ -1,33 +1,21 @@
-![Created for Upwork](https://img.shields.io/badge/Created--for--Upwork-2025%2F07%2F27-blue?style=flat-square)
+# 🤖 AI Agent Whisperer | Making Machines Talk Since Coffee Was Invented ☕
 
-
-# 👋 AI Agent Engineer | Voice AI, Call Agents, LLMs, Prompt Engineering, RAG, Python, Twilio, Vapi, FastAPI 🤖📞
-
-Hey there — welcome! 🙌
-
-I'm an **AI engineer** focused entirely on building intelligent agents that *talk back* — whether it’s a voice assistant, phone-based agent, or multi-modal AI system.  
-I’ve already built several real-world AI agents that handle natural conversations, automate calls, and solve problems without human help.
+[![AI Specialist](https://img.shields.io/badge/AI-Specialist-ff6b6b?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/yourusername)
+[![Voice Tech](https://img.shields.io/badge/Voice-Tech-4ecdc4?style=for-the-badge&logo=microphone&logoColor=white)](https://github.com/yourusername)
+[![Call Automation](https://img.shields.io/badge/Call-Automation-45b7d1?style=for-the-badge&logo=phone&logoColor=white)](https://github.com/yourusername)
 
 ---
 
-### 🧠 My Stack Includes:
-- **LLMs**, **RAG pipelines**, **Prompt Engineering**
-- **Real-time Voice Integration** with tools like:
-  - `Twilio`, `Vapi`, `WebRTC`
-  - `TTS/STT`, `FastAPI`, `LangChain`, etc.
+## 👨‍💻 What I Actually Do
 
-I love mixing **brains (models)** with **communication (voice/call flow)** to build agents that feel smooth, helpful, and human-ish.
+I build AI agents that don't just process text—they **have conversations**. Think customer service bots that actually understand context, sales assistants that don't sound like robots, and phone agents that handle complex queries without transferring you to "please hold" purgatory.
 
----
+### 🛠️ My Arsenal
 
-### 🚀 About Me:
-- Freelancing is a **newer chapter**, but building AI agents is not.
-- I bring **battle-tested experience**, **curiosity 🤓**, and a passion for turning ideas into working products.
-- When I’m not making machines talk, I’m playing **billiards 🎱** or tending to **plants 🌱** — both teach patience, timing, and flow.
-
----
-
-### 💬 Let’s Build Something Smart Together!
-
-Feel free to explore my projects, fork what you like, and reach out if you want to collaborate.
-
+```python
+tech_stack = {
+   "brain_power": ["GPT-4", "Claude", "Custom LLMs", "RAG Pipelines"],
+   "voice_magic": ["Twilio", "Vapi", "WebRTC", "ElevenLabs", "Whisper"],
+   "backend_muscle": ["FastAPI", "Python", "LangChain", "Vector DBs"],
+   "deployment": ["Docker", "AWS", "Real-time Streaming"]
+}
