@@ -4,9 +4,7 @@
 # 🚀 Senior AI Agent Engineer
 ### Specializing in Conversational AI • Voice Automation • Enterprise Integration
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-2ea44f?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+
 
 ---
 
